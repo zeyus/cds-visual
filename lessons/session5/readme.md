@@ -2,7 +2,6 @@
 
 ## Overview
 
-<<<<<<< HEAD
 This class takes some of the machine learnign skills that we've been developing in Language Analytics and thinks about how we can apply them to image classification.
 
 As before, we'll be using ```scikit-learn``` and we'll be working with some simple handwriting data.
@@ -11,6 +10,4 @@ As before, we'll be using ```scikit-learn``` and we'll be working with some simp
 - Talking through notebook
 - Python coding tasks
 - Work on assignment
-=======
-## Tasks
->>>>>>> c8c014a (session 5 materials)
+
